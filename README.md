@@ -7,7 +7,7 @@ _website design project_
 ## 🌟 About
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/Lincikas/07-coming-soon
+Site published at: https://lincikas.github.io/07-coming-soon/
 
 Design: [Coming soon] https://cdn.discordapp.com/attachments/850245533838868480/850246473362178048/coming-soon-wide.png
 
