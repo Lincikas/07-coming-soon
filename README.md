@@ -23,6 +23,7 @@ Design: [Coming soon] https://cdn.discordapp.com/attachments/850245533838868480/
 -CSS animation
 -form
 -FontAwesome icons
+CSS units: vh, vw, vmon, vmax
 
 ## 🧰 Getting Started
 
