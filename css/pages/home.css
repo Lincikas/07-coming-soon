@@ -90,7 +90,7 @@ footer.container {
     position: absolute;
     top: 1;
     left: -11;
-
+}
 .bottom a {
     color: #fff;
 }
@@ -98,5 +98,8 @@ footer.container {
 @media (max-width: 700px) {
     .main-title {
         font-size: 60px;
+    }
+.bottom > .trio {
+            flex-direction: column;   
     }
 }
